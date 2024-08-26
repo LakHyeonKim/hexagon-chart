@@ -12,3 +12,5 @@ storybook-static
 # test
 reports
 *storybook.log
+
+.idea
